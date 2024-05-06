@@ -1,0 +1,17 @@
+
+.login-box {
+	display: flex;
+	flex-direction: column;
+	border: 5px;
+	border-radius: 5px;
+	padding: 20px;
+}
+
+.login-fields {
+	display: flex;
+	flex-direction: column;
+	width: 20%;
+	min-width: 20px;
+	margin: auto;
+	margin-bottom: 10px;
+}
